@@ -1,6 +1,7 @@
 export * from './components/Fonts/Text';
 export * from './components/Fonts/Text2';
 export * from './components/Button/Button1';
+export * from './components/Heading';
 
 // step-1: create a styled component like the one above
 
